@@ -28,6 +28,11 @@ a graveyard — but **only** when your query contains the word `halloween`. Sear
 
 
 
+(*AI was only used to finalize the idea for this project and no code or assets is ai generated*)
+(*All the assets used is collected  from internet*)
+
+
+
 ------------------------------------------------------------------------
 
 Made by a teen for [hackclub ysws](https://crescent.hackclub.com/) on halloween .. ＞﹏＜
